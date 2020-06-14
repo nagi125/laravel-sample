@@ -14,5 +14,8 @@ yarn-error.log
 docker/db/data/*
 docker/redis/data/*
 
+# IDE Settings
+.idea
+
 !.gitkeep
 
